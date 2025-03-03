@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hey, I'm Pranav Shrivastava!
+🚀 Full-Stack Developer | Tech Enthusiast | Problem Solver
 
-<!--
-**Pranavshrivastava0611/Pranavshrivastava0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about building fast, scalable, and user-friendly applications
+⚡ Love working with React, Next.js, Node.js, and modern web tech
+🧠 Always learning & solving problems on LeetCode
+🎯 Striving to write clean, efficient, and maintainable code
 
-Here are some ideas to get you started:
+🌱 Tech Stack: JavaScript | TypeScript | Next.js | React | Express | MongoDB | Redis
+📌 Interests: Web Development | AI Integration | Blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Let’s Connect:
+📧 Reach me at [your email]
+🐦 Twitter: [your handle]
+💻 Check out my work at [your portfolio]
+
+🚀 "Keep building, keep learning!"
