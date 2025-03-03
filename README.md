@@ -40,8 +40,8 @@
 - 🔗 Blockchain & Crypto  
 
 ## 📫 Let's Connect  
-- 📧 Email: [your email]  
-- 🐦 Twitter: [your handle]  
-- 💻 Portfolio: [your website]  
+- 📧 Email: [Pranavwork9@gmail.com]  
+
+
 
 🚀 _"Keep building, keep learning!"_  
