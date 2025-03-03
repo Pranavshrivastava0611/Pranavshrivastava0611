@@ -30,7 +30,7 @@
 ---
 
 ## 📈 My Activity  
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pranav-Shrivastava&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranavshrivastava0611)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
