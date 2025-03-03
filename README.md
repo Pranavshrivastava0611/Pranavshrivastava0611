@@ -40,7 +40,7 @@
 - 🔗 Blockchain & Crypto  
 
 ## 📫 Let's Connect  
-- 📧 Email: [Pranavwork9@gmail.com]  
+- 📧 mail: [Pranavwork9@gmail.com]  
 
 
 
