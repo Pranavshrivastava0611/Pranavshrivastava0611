@@ -14,6 +14,8 @@
 ![Pranav's GitHub Streak](https://streak-stats.demolab.com/?user=Pranavshrivastava0611&theme=radical&hide_border=true)  
 ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranavshrivastava0611&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavshrivastava0611&layout=compact&theme=radical&hide_border=true)  
+![Profile Views](https://komarev.com/ghpvc/?username=Pranavshrivastava0611&color=blue)
+
 
 ---
 
